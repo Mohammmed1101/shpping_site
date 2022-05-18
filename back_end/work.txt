@@ -1,0 +1,16 @@
+draw io للتعديل على مخطط قاعدة البيانات و الاضافة عن طريق  ERD.html ملف 
+link draw io : https://app.diagrams.net/
+
+
+name database
+shopping_site
+
+
+npm packages:
+nodemon 
+express
+dotenv
+mongoose
+cors
+
+
